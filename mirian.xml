@@ -1,0 +1,16 @@
+<DAQREQ>
+<ReqId  id='1710005441'/>
+<TStart time='2024-02-27T08:23:04'/>
+<TStop time='2024-02-27T08:25:00'/>
+<Exp  name='flash2'/>
+<RunFirst  number='52040'/>
+<DDir name='/daq_data/flash2/GMD/POOL'/>
+<CDir name='/daq_data/flash2/GMD'/>
+<Chan name='FLASH.DIAG/TOROID.ML/3GUN/'/>
+<Chan name='FLASH.DIAG/CAMERA/OTR9FL2XTDS/'/>
+<Chan name='FLASH.MAGNETS/FL0.DBC2.1/COMPRESSION/'/>
+<Chan name='FLASH.MAGNETS/FL0.DBC1.1/COMPRESSION/'/>
+<Chan name='FLASH.MAGNETS/FL0.DBC1.2/COMPRESSION/'/>
+<Chan name='FLASH.DIAG/BPM/7FLFDUMP'/>
+<Chan name='FLASH.DIAG/CAMERA/8FLFDUMP'/>
+</DAQREQ>
